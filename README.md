@@ -1,7 +1,7 @@
 # Getting Started with PlaylistApp
 
 Prerequisites
-This is an example of how to install Playlist.
+This is an example of how to install PlaylistApp.
 
 ### `clone this repo to your local` 
 ### `npm install npm@latest -g`
