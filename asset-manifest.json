@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/playlistApp/static/css/main.f349675e.css",
+    "main.js": "/playlistApp/static/js/main.168d8d16.js",
+    "static/js/787.b1796493.chunk.js": "/playlistApp/static/js/787.b1796493.chunk.js",
+    "static/media/healthcare-gym.jpg": "/playlistApp/static/media/healthcare-gym.d287ec0e47a99c50d170.jpg",
+    "index.html": "/playlistApp/index.html",
+    "main.f349675e.css.map": "/playlistApp/static/css/main.f349675e.css.map",
+    "main.168d8d16.js.map": "/playlistApp/static/js/main.168d8d16.js.map",
+    "787.b1796493.chunk.js.map": "/playlistApp/static/js/787.b1796493.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f349675e.css",
+    "static/js/main.168d8d16.js"
+  ]
+}
